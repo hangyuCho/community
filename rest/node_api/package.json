@@ -1,0 +1,53 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "npx env NODE_ENV=test mocha src/test/**/*.*.test.js --reporter spec --exit",
+    "dev": "nodemon src/app.js",
+    "start": "pm2 start src/app.js",
+    "eslint:fix": "eslint . --ext .js --fix",
+    "db:migrate": "npx sequelize-cli db:migrate",
+    "db:migrate:undo:": "npx sequelize-cli db:migrate:undo",
+    "db:migrate:undo:all": "npx sequelize-cli db:migrate:undo:all",
+    "db:seed:all": "npx sequelize-cli db:seed:all ",
+    "db:seed:undo:all": "npx sequelize-cli db:seed:undo:all",
+    "db:create": "npx env NODE_ENV=test sequelize-cli db:create && npx env NODE_ENV=production sequelize-cli db:create && npx env NODE_ENV=development sequelize-cli db:create"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "eslint-plugin-node": "^11.1.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "express-session": "^1.17.1",
+    "helmet": "^4.1.0",
+    "hpp": "^0.2.3",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.1.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "pm2": "^4.4.1",
+    "sequelize": "^6.3.4",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.2.0",
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "faker": "^5.0.0",
+    "mocha": "^8.1.2",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.1.0",
+    "request": "^2.88.2",
+    "sequelize-cli": "^6.2.0"
+  }
+}

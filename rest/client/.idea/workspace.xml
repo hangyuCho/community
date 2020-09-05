@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6abbbcf-02aa-45bf-a85a-ac0845627f5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../node_api/src/controllers/openchat.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_api/src/routes/openchat.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_api/src/test/Unit/Services/category.service.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_api/src/test/Unit/Services/comment.service.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_api/src/test/Unit/Services/notice.service.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_api/src/test/Unit/Services/openchat.service.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_api/src/test/Unit/Services/post.service.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_api/src/db/models/category.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_api/src/db/models/category.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_api/src/db/models/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_api/src/db/models/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_api/src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_api/src/routes/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1fzzrzOaoaqtUrzdF1IsajI2Gqp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.6.0" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v14.8.0/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/store/actions/post" />
+      <recent name="$PROJECT_DIR$/components/forms" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/store/actions/notice" />
+      <recent name="$PROJECT_DIR$/components/atoms/authForm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/molecules" />
+      <recent name="$PROJECT_DIR$/components/organisms" />
+      <recent name="$PROJECT_DIR$/components/forms" />
+      <recent name="$PROJECT_DIR$/components/templates" />
+      <recent name="$PROJECT_DIR$/components/atoms" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="modules.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/quill/modules.js" working-dir="$PROJECT_DIR$/quill">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.modules.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6abbbcf-02aa-45bf-a85a-ac0845627f5e" name="Default Changelist" comment="" />
+      <created>1597235911158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597235911158</updated>
+      <workItem from="1597235912173" duration="78256000" />
+      <workItem from="1597703672709" duration="1321000" />
+      <workItem from="1597710815007" duration="55218000" />
+      <workItem from="1598012907827" duration="52919000" />
+      <workItem from="1598221113766" duration="1143000" />
+      <workItem from="1598487343864" duration="7219000" />
+      <workItem from="1598521470844" duration="1195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1967" y="482" key="#ESLint" timestamp="1597789670068">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state x="1967" y="482" key="#ESLint/0.23.5120.1417@0.23.5120.1417" timestamp="1597789670068" />
+    <state x="3517" y="531" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598053228733">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state x="3517" y="531" key="#com.intellij.fileTypes.FileTypeChooser/0.23.5120.1417@0.23.5120.1417" timestamp="1598053228733" />
+    <state width="1774" height="459" key="GridCell.Tab.0.bottom" timestamp="1598197924920">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1718" height="404" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1597500880163" />
+    <state width="1774" height="459" key="GridCell.Tab.0.bottom/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924920" />
+    <state width="1774" height="459" key="GridCell.Tab.0.center" timestamp="1598197924919">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1718" height="404" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1597500880162" />
+    <state width="1774" height="459" key="GridCell.Tab.0.center/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924919" />
+    <state width="1774" height="459" key="GridCell.Tab.0.left" timestamp="1598197924917">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1718" height="404" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1597500880162" />
+    <state width="1774" height="459" key="GridCell.Tab.0.left/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924917" />
+    <state width="1774" height="459" key="GridCell.Tab.0.right" timestamp="1598197924920">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1718" height="404" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1597500880163" />
+    <state width="1774" height="459" key="GridCell.Tab.0.right/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924920" />
+    <state width="1774" height="459" key="GridCell.Tab.1.bottom" timestamp="1598197924920">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.1.bottom/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924920" />
+    <state width="1774" height="459" key="GridCell.Tab.1.center" timestamp="1598197924920">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.1.center/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924920" />
+    <state width="1774" height="459" key="GridCell.Tab.1.left" timestamp="1598197924920">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.1.left/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924920" />
+    <state width="1774" height="459" key="GridCell.Tab.1.right" timestamp="1598197924920">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.1.right/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924920" />
+    <state width="1774" height="459" key="GridCell.Tab.2.bottom" timestamp="1598197924921">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.2.bottom/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924921" />
+    <state width="1774" height="459" key="GridCell.Tab.2.center" timestamp="1598197924921">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.2.center/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924921" />
+    <state width="1774" height="459" key="GridCell.Tab.2.left" timestamp="1598197924921">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.2.left/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924921" />
+    <state width="1774" height="459" key="GridCell.Tab.2.right" timestamp="1598197924921">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.2.right/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924921" />
+    <state width="1774" height="459" key="GridCell.Tab.3.bottom" timestamp="1598197924922">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.3.bottom/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924922" />
+    <state width="1774" height="459" key="GridCell.Tab.3.center" timestamp="1598197924921">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.3.center/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924921" />
+    <state width="1774" height="459" key="GridCell.Tab.3.left" timestamp="1598197924921">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.3.left/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924921" />
+    <state width="1774" height="459" key="GridCell.Tab.3.right" timestamp="1598197924921">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state width="1774" height="459" key="GridCell.Tab.3.right/0.23.5120.1417@0.23.5120.1417" timestamp="1598197924921" />
+    <state x="3282" y="370" key="SettingsEditor" timestamp="1598260208746">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state x="3282" y="370" key="SettingsEditor/0.23.5120.1417@0.23.5120.1417" timestamp="1598260208746" />
+    <state x="3167" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597247986911">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state x="3167" y="310" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.5120.1417@0.23.5120.1417" timestamp="1597247986911" />
+    <state x="1749" y="127" width="1752" height="1217" key="dock-window-1" timestamp="1597962549285">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state x="1749" y="127" width="1752" height="1217" key="dock-window-1/0.23.5120.1417@0.23.5120.1417" timestamp="1597962549285" />
+    <state x="3481" y="441" width="660" height="672" key="find.popup" timestamp="1598033468590">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state x="3481" y="441" width="660" height="672" key="find.popup/0.23.5120.1417@0.23.5120.1417" timestamp="1598033468590" />
+    <state x="3438" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1598507277462">
+      <screen x="0" y="23" width="5120" height="1417" />
+    </state>
+    <state x="1128" y="259" width="670" height="490" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1597501118531" />
+    <state x="3438" y="348" width="670" height="676" key="search.everywhere.popup/0.23.5120.1417@0.23.5120.1417" timestamp="1598507277462" />
+  </component>
+</project>

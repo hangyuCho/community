@@ -1,0 +1,39 @@
+{
+  "name": "tama",
+  "version": "1.0.0",
+  "description": "aaa",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonsoku2/tamastudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonsoku2/tamastudy/issues"
+  },
+  "homepage": "https://github.com/jonsoku2/tamastudy#readme",
+  "husky": {
+    "hooks": {
+      "pre-push": "./huskyhooks/pre-push",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "node_api/**/*.js": [
+      "npm run api:eslint"
+    ],
+    "client/**/*.{js,jsx}": [
+      "npm run client:eslint"
+    ]
+  },
+  "scripts": {
+    "api:eslint": "cd node_api && npm run eslint:fix",
+    "client:eslint": "cd client && npm run eslint:fix"
+  },
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.1.0"
+  }
+}
